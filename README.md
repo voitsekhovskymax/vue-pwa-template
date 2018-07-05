@@ -1,21 +1,19 @@
-# vue-pwa
+# vue-pwa-template
 
-> test
+> 05.07.2018 - первая версия, без [AXIOS, VUEX, css фреймворка] 
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# Установить зависимости
 npm install
 
-# serve with hot reload at localhost:8080
+# Сервер с перезагрузкой на localhost:8080
 npm run dev
 
-# build for production with minification
+# Сжать и отправить в продакшн
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+Для вопросов и рассуждений, ищите меня [Telegram](http://t.me/voitsekhovskymax) and [Facebook](http://fb.me/voitsekhovskymax).
