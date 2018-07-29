@@ -16,4 +16,4 @@ npm run build
 
 
 
-Для вопросов и рассуждений, ищите меня [Telegram](http://t.me/voitsekhovskymax) and [Facebook](http://fb.me/voitsekhovskymax).
+Для вопросов и рассуждений, ищите меня [Telegram](http://t.me/voitsekhovskymax/) and [Facebook](http://fb.me/voitsekhovskymax/).
